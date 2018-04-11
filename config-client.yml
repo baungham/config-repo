@@ -1,2 +1,4 @@
-demo:
-  title: "default"
+info:
+	profile: "default"
+
+title: "I am default"
